@@ -3,7 +3,7 @@
 
 ## Description
 
-This project creats a simple svg logo using node.js
+This project creates a simple svg logo using node.js
 
 ## User Story 
 
